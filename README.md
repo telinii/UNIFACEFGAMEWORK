@@ -24,6 +24,8 @@ Para contribuir com DARK PARADISE, siga estas etapas:
 
 Como alternativa, consulte a documentação do GitHub em [como criar uma solicitação pull](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request).
 
+Você pode jogar o jogo [aqui]
+
 ## 🤝 Créditos
 
 - Orientador Marcio
