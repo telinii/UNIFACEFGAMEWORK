@@ -1,8 +1,8 @@
 # DARK PARADISE
 ![PRINT(jogoFACEF)](https://github.com/user-attachments/assets/5336d3ae-4dc6-4b96-91b8-74053db94a23)
 Um clássico tema Dark Medieval
-Um atirador, muitos inimigos.                                                                                                                                                                                           Um ótimo jogo para desenvolver 
- Ótim opara desenvolver seus CPS (Clicks Por Segundo)
+Um atirador, muitos inimigos.
+Ótimo para desenvolver seus CPS (Clicks Por Segundo)
 
 
 > Um simples jogo 2D feito via Construct 3 (https://www.construct.net/en)
