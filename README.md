@@ -9,7 +9,7 @@ Um atirador, muitos inimigos.
 
 ![Captura de tela 2025-04-18 102041](https://github.com/user-attachments/assets/130f4ae6-d4bc-4c50-a245-5f98f894aaa8)
 
-Banco de Dados via Firebase (https://console.firebase.google.com/u/0/project/darkparadise-2abbc/database/darkparadise-2abbc-default-rtdb/data/~2F?hl=pt-br)
+Banco de Dados via Firebase
 
 
 
