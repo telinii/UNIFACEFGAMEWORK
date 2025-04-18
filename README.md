@@ -5,6 +5,10 @@ Um clássico tema Dark Medieval, um atirador, muitos inimigos.                  
 
 > Um simples jogo 2D feito via Construct 3 (https://www.construct.net/en)
 
+Ba![Captura de tela 2025-04-18 100030](https://github.com/user-attachments/assets/01b4c013-00b0-4b76-9486-8da1215f7494)
+nco de Dados via Firebase
+
+
 
 
 ### Em relação aos controles: 
