@@ -1,6 +1,6 @@
 # DARK PARADISE
 ![PRINT(jogoFACEF)](https://github.com/user-attachments/assets/5336d3ae-4dc6-4b96-91b8-74053db94a23)
-Um clássico tema Dark Medieval
+Um clássico tema Dark Medieval.
 Um atirador, muitos inimigos.
 Ótimo para desenvolver seus CPS (Clicks Por Segundo)
 
